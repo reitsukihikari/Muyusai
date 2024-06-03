@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod] 
+*.egg
+*.egg-info
+dist
+build
+
+# Ren'Py specific
+**/cache/**
+**/saves/**
+renpy/common/**/cache/**
+renpy/common/**/saves/**
+renpy/launcher/game/**/cache/**
+renpy/launcher/game/**/saves/**
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+.env/
+
+# Compiled executable
+*.exe
+*.app
+*.sh
+*.apk
+*.zip
+*.tar.gz
+
+# Miscellaneous
+.project
+.pydevproject
+.idea/
+.vscode/
+__pycache__/
+*.orig
