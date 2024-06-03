@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is a visual novel game developed by Visual Cube Studio, with programming by Reitsuki Hikari.
+This is a visual novel game developed by Ren'Py, with programming by Reitsuki Hikari.
 
 ## Versions
 
