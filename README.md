@@ -24,16 +24,16 @@ This is a visual novel game developed by Ren'Py, with programming by Reitsuki Hi
 ## Screenshots
 
 <div align='center'>
-  <img src='https://github.com/reitsukihikari/Muyusai/assets/171543929/77047384-ad70-41ea-a839-b45318e471b1' width='50%'>
+  <img src='https://github.com/reitsukihikari/Muyusai/assets/171543929/d2a0c05a-b11d-42ea-a4f6-c76c3c06f6ce' width='50%'>
 </div>
 
 <div align='center'>
-  <img src='https://github.com/reitsukihikari/Muyusai/assets/171543929/ac0138d6-237c-4e11-a045-31c0be90db2b' width='50%'>
+  <img src='https://github.com/reitsukihikari/Muyusai/assets/171543929/7268539e-3a14-4781-821e-19de5fe3c9df' width='50%'>
 </div>
 
 ## License
 The game complies with the [Touhou Project Guidelines](https://touhou-project.news/guidelines_en).
 
 <div align='center'>
-  <img src='https://github.com/reitsukihikari/Muyusai/assets/171543929/a3bda73b-8847-4bd2-b46d-1c3c4ec73396' width='50%'>
+  <img src='https://github.com/reitsukihikari/Muyusai/assets/171543929/f5abe9c2-687f-4169-aee0-e34c1b364d03' width='50%'>
 </div>
