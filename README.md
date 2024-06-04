@@ -10,6 +10,9 @@ This is a visual novel game also named *Muyusai*, developed using *Ren'Py*, with
 
 ## Versions
 
+### v2.0.1
+- Fixed a typo
+
 ### v2.0
 - Added localization support (three languages)
 - Updated with a new logo
